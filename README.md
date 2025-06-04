@@ -2,13 +2,13 @@ The [Youdemy project](https://github.com/dhanusree1807/Youdemy) is an open-sourc
 
 🔑 Key Features
 
- 1.Course Catalog
-      Browse a diverse selection of courses in categories such as Programming, Design, Marketing, and Business.
- 2.Course Details 
+ * Course Catalog :
+      Browse a diverse selection of courses in categories such as Programming, Design, Marketing, and Business
+ * Course Details : 
       Access comprehensive information for each course, including instructor profiles, curriculum outlines, pricing, and user reviews.
- 3.User Registration & Authentication
+ * User Registration & Authentication :
       Create an account to sign in and save your learning progress.
- 4.Responsive Design 
+ * Responsive Design :
       The platform is designed to be responsive, ensuring a seamless experience across various devices.
 
 The repository includes essential files such as `index.html` for the main webpage, `style-guide.md` for design guidelines, and an `assets` folder containing images and other resources. While the current version appears to be a frontend prototype, it lays the groundwork for a comprehensive e-learning platform.
