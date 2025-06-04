@@ -1,1 +1,17 @@
-Youdemi is a **frontend-based online learning platform** built using **HTML, CSS, JavaScript, and Bootstrap**. It provides a user-friendly interface where learners can browse courses, view details, and track progress. The platform features a **responsive design**, interactive UI, and structured course listings. Users can navigate through different pages like the **Home, Course Details** for a seamless learning experience. This project serves as a foundation for a full-fledged Learning Management System (LMS) in the future. 🚀
+The [Youdemy project](https://github.com/dhanusree1807/Youdemy) is an open-source initiative aiming to create an online learning platform similar to Udemy. It offers users access to a wide variety of courses across multiple domains, including technology, business, arts, and personal development. The platform is designed to be user-friendly and accessible, enabling learners of all ages and skill levels to acquire new skills, advance their careers, or pursue personal interests from the comfort of their homes.
+
+🔑 Key Features
+
+ Course Catalog
+      Browse a diverse selection of courses in categories such as Programming, Design, Marketing, and Business.
+Course Details 
+      Access comprehensive information for each course, including instructor profiles, curriculum outlines, pricing, and user reviews.
+User Registration & Authentication
+      Create an account to sign in and save your learning progress.
+Responsive Design 
+      The platform is designed to be responsive, ensuring a seamless experience across various devices.
+
+The repository includes essential files such as `index.html` for the main webpage, `style-guide.md` for design guidelines, and an `assets` folder containing images and other resources. While the current version appears to be a frontend prototype, it lays the groundwork for a comprehensive e-learning platform.
+
+For more details or to contribute to the project, you can visit the repository here: [https://github.com/dhanusree1807/Youdemy](https://github.com/dhanusree1807/Youdemy).
+
